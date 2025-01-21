@@ -30,7 +30,7 @@ int main(void){
 		return 1;
 	}
 	else{
-		printf('%p',(void *)ptr);
+		printf("%p",(void *)ptr);
 		return 0;
 	}
 }
